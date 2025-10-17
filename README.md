@@ -20,7 +20,7 @@ Neste trabalho criei um analisador léxico para a linguagem SPARQL. O processo d
 
 # Resultados
 
-## JSON
+### JSON
 
 ```
 [
@@ -74,7 +74,7 @@ Neste trabalho criei um analisador léxico para a linguagem SPARQL. O processo d
     }
 ]
 ```
-## Output
+### Output
 
 <img width="836" height="941" alt="image" src="https://github.com/user-attachments/assets/cdb7b5b9-1a80-45e8-9e87-d0c228a07f15" />
 
