@@ -20,7 +20,7 @@ Neste trabalho resolvi todos os tipos de Regex propostos pelo professor. O proce
 
 # Resultados
 
-## Código
+### Código
 
 ```
 import re
@@ -102,7 +102,7 @@ link(entrada)
 print("\n")
 image(entrada)
 ```
-## Output
+### Output
 
 ```
 <h1> texto </h1>
