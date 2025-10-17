@@ -11,7 +11,7 @@ Foto:<br>
 
 # Resultados
 
-## JSON
+### JSON
 
-## Output
+### Output
 
